@@ -1,4 +1,4 @@
-# daily-goals
+# Daily-goals
 The daily goals website built with React is a powerful tool designed to help users set and track their daily objectives in a simple and effective manner. This intuitive and visually appealing application empowers individuals to stay focused, motivated, and organized in achieving their goals.
 With this React-based website, users can create personalized daily goals by setting specific targets and deadlines. The user-friendly interface allows for easy input of goals, with options to categorize them based on different areas of life, such as health, career, personal development, or hobbies.
 
